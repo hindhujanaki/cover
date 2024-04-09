@@ -189,6 +189,30 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](<Screenshot 2024-04-09 202557.png>)
 
 ## RESULT:
