@@ -74,7 +74,7 @@ Publish the website in the LocalHost.
       left: 60px;
       font-size: 30px;
       font-weight: bold;
-      color:  rgb(226, 232, 223);
+      color:  rgb(147, 174, 177);
     }
     
 
@@ -118,12 +118,12 @@ Publish the website in the LocalHost.
     }
 
 
-    .book-cover .author {
+    .book-cover .college {
       position: absolute;
       bottom: 25px;
       left: 20px;
-      font-size: 18px;
-      color: rgb(218, 218, 53);
+      font-size: 14px;
+      color: rgb(52, 198, 45);
     }
     .book-cover .ed{
       position: absolute;
@@ -137,7 +137,7 @@ Publish the website in the LocalHost.
     .book-cover .end {
       position: absolute;
       bottom: 5px;
-      right: 50px;
+      right: 30px;
       font-size: 18px;
       color: rgb(211, 231, 39);
     }
@@ -171,15 +171,15 @@ Publish the website in the LocalHost.
     <div class="title1">  NAVIGATING THE WORLD OF CYBER SECURITY </div>
     <div class="subtitle1">Safeguarding The Future</div>
     <div class="line2"><hr style="color:rgb(255, 235, 205)"></div>
-    <div class="subtitle2">Navigating The Digital Landscape</div>
-    <div class="subtitle3">Harnessing Technology For Cyber Resilience</div>
+    <div class="subtitle2">*Navigating The Digital Landscape</div>
+    <div class="subtitle3">*Harnessing Technology For Cyber Resilience</div>
     <div class="line3"><hr style="color:rgb(255, 247, 205)"></div>
     <div class="mypic"><img src= "Hindhu.jpg"width="120" height="120" ></div>
     <div class="ed"><b>Extended Edition</b></div>
-    <div class="end">SEC</div>
+    <div class="end">G.HINDHU</div>
     
 
-    <div class="author">G.HINDHU</div>
+    <div class="college">SAVEETHA ENGINEERING COLLEGE</div>
 
   </div>
 </body>
@@ -191,8 +191,27 @@ Publish the website in the LocalHost.
 
 
 
-</html>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
 ```
 
 
@@ -257,8 +276,8 @@ Publish the website in the LocalHost.
 
 
 
+![alt text](<Screenshot 2024-04-10 031916.png>)
 
-![alt text](<Screenshot 2024-04-09 202557.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
